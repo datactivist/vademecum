@@ -1,30 +1,31 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Home
+  - title: Accueil
     url: /
 
-  - title: Docs
+  - title: Méthodologie
     url: /docs/installation/
 
-  - title: Blog
+  - title: Forums
     url: /blog/
 
-  - title: Changelogs
-    dropdown:
+  - title: Outils
+    url: /changelog-posts/
+#    dropdown:
 
-      - title: Timeline Style
-        url: /changelog-timeline/
+#      - title: Timeline Style
+#        url: /changelog-timeline/
 
-      - title: Post Style
-        url: /changelog-posts/
+#      - title: Post Style
+#        url: /changelog-posts/
 
 
 # Navbar right menu navigation links
 
 right:
 
-  - title: Changelog
+  - title: Aperçu
     url: /changelog-timeline/
     button: primary-outline
 
