@@ -1,33 +1,33 @@
 # Changelog page source
 
-- title: Co-construisons le Forum du gouvernement ouvert
+- title: Co-construction du Forum du gouvernement ouvert
   label: FORUM 1
   date: 12 mars 2018
   list:
-  - Ce premier forum a permis de réaliser un Manifeste de manière collaborative
   - Initiation et présentation de la démarche
   - Appliquer les principes collaboratifs du gouvernement ouvert
   - Co-construire les règles du jeu 
   - Dégager les thématiques qui susciteraient le plus d’intérêt
-  - Entretenir un cadre de confiance pour un dialogue respectueux entre la société civile et les administrations
+  - Réalisation du Manifeste de manière collaborative
   - Un programme de 5 rencontres en 5 thèmes
 
 - title: Publier en open data les données du répertoire des représentants d’intérêts
   label: FORUM 2
   date: 9 mai 2018
   list:
-  - Allow fullscreen mode for YouTube videos in Lightbox
-  - Fix icons not displaying if connected in rapid succession
-  - Fix scrollbar jumping in Switcher
+  - Comment rendre le répertoire plus utile et plus accessible
+  - Comment enquêter avec les données du répertoire 
+  - Les enseignements du registre européen des représentants d’intérêts
+  - Datavisualisation. Comment représenter les données du répertoire
 
 - title: Ouvrons la science !
   label: FORUM 3
   date: 9 juillet 2018
   list:
-  - Added style support for radio and checkbox in Firefox
-  - Removed class from Section component
-  - Add workaround to mitigate the duplicating icons issue
-  - Fixed responsive images in modal for IE11
+  - Présentation du Plan national pour la science ouverte
+  - Accélérer le développement de l’archive ouverte nationale HAL
+  - Établir un baromètre de l’accès ouvert en France
+  - Quelles fonctionnalités à améliorer dans l’archive nationale HAL
 
 - title: Data.gouv.fr et les algorithmes à l’épreuve de la médiation numérique
   label: FORUM 4
