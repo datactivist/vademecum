@@ -33,23 +33,28 @@
   label: FORUM 4
   date: 13 septembre 2018
   list:
-  - Media options now support any valid media query syntax
-  - Added style support for radio and checkbox in Firefox
-  - Fix whitespace trimming in dist
+  - Poursuivre le développement de data.gouv.fr et y intégrer de nouvelles fonctionnalités
+  - Faire appliquer l’obligation d’explicitation des décisions publiques prises par un algorithme
+  - Les algorithmes, un élément indispensable et incontournable de la décision publique
+  - Comprendre le calcul du montant de la taxe d’habitation
     
 - title: Ouverture des données essentielles de la commande publique
   label: FORUM 5
   date: 12 decembre 2018
   list:
-  - Ce premier forum a permis de réaliser un Manifeste de manière collaborative
-  - Initiation et présentation de la démarche
-  - Appliquer les principes collaboratifs du gouvernement ouvert
+  - Enrichir les données essentielles de la commande publique pour développer davantage de services et d’analyses
+  - Les données ouvertes de la commande publique, un levier encore peu exploité en France dans la lutte contre la corruption
+  - Une politique d’achat basée sur la donnée et un schéma des achats économiquement responsables en Bretagne
+  - Rechercher et trouver les données ouvertes de la commande publique sur Data.gouv
+  - Une première cartographie des usagers de la commande publique
 
 - title: Renforcer la transparence de l’aide publique au développement 
   label: FORUM 6
   date: 9 avril 2019
   list:
-  - Ce premier forum a permis de réaliser un Manifeste de manière collaborative
-  - Initiation et présentation de la démarche
-  - Appliquer les principes collaboratifs du gouvernement ouvert
+  - Découvrir les données de l’Aide Publique au Développement
+  - Quelles données sont publiées sur le portail open data OCDE et AFD
+  - Données IATI (Initiave Internationale pour la Transparence de l Aide)
+  - Un recensement des sources de données de l’APD produit
+  
 
