@@ -1,38 +1,62 @@
 # Changelog page source
 
-- title: Version 1.0.0
-  label: STABLE
-  date: Oct 21, 2017
+- title: Co-construisons le Forum du gouvernement ouvert
+  label: FORUM 1
+  date: 12 mars 2018
   list:
-  - Added Slideshow component
-  - Added style support for radio and minusbox in Firefox
-  - Removed class from Section component
-  - Allow fullscreen mode for videos in Lightbox
-  - Fixed responsive images in modal for IE11
-  - Fix Grid and Margin component for cells with no height
-  - Larger horizontal padding for form input and textarea
+  - Ce premier forum a permis de réaliser un Manifeste de manière collaborative
+  - Initiation et présentation de la démarche
+  - Appliquer les principes collaboratifs du gouvernement ouvert
+  - Co-construire les règles du jeu 
+  - Dégager les thématiques qui susciteraient le plus d’intérêt
+  - Entretenir un cadre de confiance pour un dialogue respectueux entre la société civile et les administrations
+  - Un programme de 5 rencontres en 5 thèmes
 
-- title: Version 1.0.0
-  label: BETA 1
-  date: Sep 01, 2017
+- title: Publier en open data les données du répertoire des représentants d’intérêts
+  label: FORUM 2
+  date: 9 mai 2018
   list:
   - Allow fullscreen mode for YouTube videos in Lightbox
   - Fix icons not displaying if connected in rapid succession
   - Fix scrollbar jumping in Switcher
 
-- title: Version 0.6.0
-  label:
-  date: Aug 15, 2017
+- title: Ouvrons la science !
+  label: FORUM 3
+  date: 9 juillet 2018
   list:
   - Added style support for radio and checkbox in Firefox
   - Removed class from Section component
   - Add workaround to mitigate the duplicating icons issue
   - Fixed responsive images in modal for IE11
 
-- title: Version 0.5.0
-  label:
-  date: Oct 21, 2017
+- title: Data.gouv.fr et les algorithmes à l’épreuve de la médiation numérique
+  label: FORUM 4
+  date: 13 septembre 2018
   list:
   - Media options now support any valid media query syntax
   - Added style support for radio and checkbox in Firefox
   - Fix whitespace trimming in dist
+    
+- title: 5 - Ouverture des données essentielles de la commande publique
+  label: PARIS
+  date: 12 décembre 2018
+  list:
+  - Ce premier forum a permis de réaliser un Manifeste de manière collaborative
+  - Initiation et présentation de la démarche
+  - Appliquer les principes collaboratifs du gouvernement ouvert
+  - Co-construire les règles du jeu 
+  - Dégager les thématiques qui susciteraient le plus d’intérêt
+  - Entretenir un cadre de confiance pour un dialogue respectueux entre la société civile et les administrations
+  - Un programme de 5 rencontres en 5 thèmes
+  
+  - title: Renforcer la transparence de l’aide publique au développement 
+  label: FORUM 6
+  date: 9 avril 2019
+  list:
+  - Ce premier forum a permis de réaliser un Manifeste de manière collaborative
+  - Initiation et présentation de la démarche
+  - Appliquer les principes collaboratifs du gouvernement ouvert
+  - Co-construire les règles du jeu 
+  - Dégager les thématiques qui susciteraient le plus d’intérêt
+  - Entretenir un cadre de confiance pour un dialogue respectueux entre la société civile et les administrations
+  - Un programme de 5 rencontres en 5 thèmes
