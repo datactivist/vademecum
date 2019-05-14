@@ -2,21 +2,21 @@
 layout: page
 width: expand
 hero:
-    title: How can we help you?
-    subtitle: Search or browse in depth articles and videos on everything on Docs Jekyll theme, from basic theme setup to customisation and development
-    image: knowledge.svg
+    title: Vademecum
+    subtitle: Pour organiser un événement de médiation de données pour encourager le rôle actif de la société civile dans la réutilisation des données publiques.
+    image: logo_opendetat.png
     search: true
 ---
 
-{% include boxes.html columns="3" title="Browse Topics" subtitle="Chose an option that you need help with or search above" %}
+{% include boxes.html columns="3" title="Mode d'emploi" subtitle="Comprendre pourquoi et comment mettre en place un forum Open d'Etat" %}
 
-{% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
+{% include featured.html tag="featured" title="Premières étapes" subtitle="Comment initier la démarche en interne ?" %}
 
-{% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %}
+<!--- {% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %} --->
 
-{% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %}
+{% include faqs.html multiple="true" title="Questions Frequentes" category="presale" subtitle="Voivi les questions qui nous ont le plus été posées par les administrations partenaires." %}
 
-{% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
+<!--- {% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %} --->
 
-{% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us for details on setup and additional custom services pricing" %}
+{% include cta.html title="Plus d'infos ?" button_text="Nous contacter" button_url="/contact/" subtitle="Pour une réponse personnalisée à votre problématique" %}
 
