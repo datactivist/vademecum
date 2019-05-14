@@ -4,14 +4,14 @@
   {% assign author = site.author %}
 {% endif %}
 
-{% if author.avatar %}
+<!--- {% if author.avatar %}
   {% if author.avatar contains 'http' %}
       {% assign domain = '' %}
   {% else %}
       {% assign domain = site.uploads | absolute_url %}
   {% endif %}
-  <img class="uk-border-circle avatar" src="{{ domain }}{{ author.avatar }}" alt="{{ author.name }}">
-{% endif %}
+  <img class="uk-border-circle avatar" src="{{ domain }}{{ author.avatar }}" alt="{{ author.name }}"> 
+{% endif %} --->
 
 <!--- <div>
   {% if author.name %}
