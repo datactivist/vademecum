@@ -1,36 +1,35 @@
-- title: Getting Started
+- title: Principes
   docs:
-  - installation
-  - setup
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
+  - ouvert au public
+  - court
+  - stimulant
+  - efficace
+  - encadré
+  - collaboratif
 
-- title: Theme Features
+- title: Format
   docs:
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
+  - préparation
+  - rétroplanning
+  - ressources
+  - Kit appropriation
+  - salle
+  - intervenants
+  - ateliers
+  - restitution
+  - compte-rendu
 
-- title: Customization
+- title: Déroulé type
   docs:
-  - translation
-  - customize
-  - development
-  - sources
+  - accueillir
+  - introduire
+  - modérer
+  - animer
+  - restituer
+  - conclure
 
-- title: Help
+- title: Outils
   docs:
-  - support
+  - kit
+  - consignes
+  - posters
