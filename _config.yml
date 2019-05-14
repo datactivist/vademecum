@@ -13,7 +13,7 @@ lang:               en
 baseurl:            /vademecum
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink:          /:title/
+permalink:          /vademecum/:title/
 
 # Site base hostname & protocol, e.g. http://example.com
 url:               https://cecilaki.github.io/vademecum/ 
@@ -71,7 +71,7 @@ social:
     linkedin:
     pinterest:
     twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    vimeo:          
     youtube:
 
 # Share button
