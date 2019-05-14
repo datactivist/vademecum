@@ -4,7 +4,7 @@ width: expand
 hero:
     title: Vademecum
     subtitle: Pour organiser un événement de médiation de données et encourager le rôle actif de la société civile dans la réutilisation des données publiques.
-    image: logo_bleu_open_detat.png
+    image: 
     search: false
 ---
 
