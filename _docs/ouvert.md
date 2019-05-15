@@ -1,6 +1,6 @@
 ---
 title: Un événement ouvert au public
-subtitle: L’entrée aux forums du gouvernement est donc gratuite et ouverte à tous, sous condition de capacité d’accueil du lieu.
+subtitle: L’entrée aux forums est gratuite et ouverte à tous, sous condition de capacité d’accueil du lieu.
 tags: [principes]
 ---
 
