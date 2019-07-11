@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: Forums Open d'Etat
-    subtitle: Pour organiser un événement de médiation de données et encourager le rôle actif de la société civile dans la réutilisation des données publiques.
+    subtitle: Un événement de médiation de données conçu pour encourager le rôle actif de la société civile dans la réutilisation des données publiques.
     image: 
     search: false
 ---
