@@ -14,6 +14,12 @@ Suite à l’introduction, deux ateliers ont porté d’une part sur l’usage d
 ![41](https://forum.etalab.gouv.fr/uploads/default/optimized/1X/127a3b4ab3d3a38ecf88f2f432319bd46c5d2321_1_285x225.png "Extrait image kit")
 ![02](https://forum.etalab.gouv.fr/uploads/default/optimized/1X/6cf2cd7b4a3f1b2ac4cb198162664bf9a0386c90_1_257x225.png "Extrait kit")
 
+### Sections de l'article :
+
+{:.no_toc}
+* TOC
+{:toc}
+
 ## La transparence de l’aide à l’AFD et au MEAE
 L’événement a débuté par une introduction de **Delphine Constant-Perier**, Responsable de la Cellule RSO (Responsabilité Sociale des Organisations), Redevabilité et Transparence à l’AFD, et **Laure Serra**, Rédactrice Pôle développement, efficacité et transparence de l’aide au MEAE concernant les actions mises en place par ces deux institutions en matière de transparence de l’aide.
 
