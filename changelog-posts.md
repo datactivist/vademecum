@@ -1,6 +1,6 @@
 ---
 layout: changelog
-title: Changelog posts
+title: Les outils d'animation à prévoir
 permalink: /changelog-posts/
 ---
 
