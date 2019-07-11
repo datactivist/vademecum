@@ -2,15 +2,15 @@
 
 - title: Pourquoi un forum ?
   desc: Encourager le dialogue avec la société civile
-  icon: cog
+  icon: question
   doc: installation
 
 - title: Comment l'organiser ?
   desc: Quelles étapes sont nécessaires à la préparation d'un forum ?
-  icon: settings
+  icon: pencil
   doc: hero
 
 - title: Qui inviter ?
   desc: Quels acteurs inviter en priorité à un forum ?
-  icon: code
+  icon: users
   doc: customize
