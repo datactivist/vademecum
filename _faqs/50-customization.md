@@ -1,8 +1,10 @@
 ---
-title: Do you provide customization services for your items?
+title: Combien de temps de préparation faut-il prévoir ?
 categories: [presale]
 ---
 
-Item support does not include services to modify or extend the item beyond the original features, style and functionality described on the item page. 
+La préparation globale d’un Forum Open d’Etat prend en moyenne 2 mois. Durant ce temps de préparation, il est pertinent de préparer un rétro planning des tâches à accomplir : trouver une salle, contacter les intervenants, envoyer les invitations à votre écosystème, etc. 
 
-For customization services that will help you tailor the item to your specific requirements, please [contact us](https://themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/21131076/support) to see if we are available to offer paid customization service or check out service providers on [Envato Studio](https://studio.envato.com/).
+En voici un exemple :
+
+![Proposition de retroplanning](/assets/img/retroplanning_forums.png)
