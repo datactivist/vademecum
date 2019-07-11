@@ -2,18 +2,10 @@
 title: 🚀 Kit d'appropriation
 ---
 
-April comes with a whole bunch of updates across our stack, the main focus for this month in regards to what was released is around:
+Exemple de kits d'appropriation.
+[A télécharger](https://www.etalab.gouv.fr/forum-open-d-etat)
 
-Further improving system, and allowing you to compare your results against wide averages for deflection rates
-Improvements to our tool to give you and your team more control
-And various other new features, updates, and bug fixes along the way.
+### Comment réaliser un kit d'appropriation ?
 
-{% include tag.html tag="added" %}
-- Some scheduled changelogs, tweets, and slack messages queued up this weekend and were not published on time. We fixed the issue and all delayed publications should be out.
-- We now prioritize keywords over title and body so customers can more effectively influence search results
-- Support form in the Assistant is now protected with reCaptcha to reduce spam reinitializeOnUrlChange added to the JavaScript API to improve support for pages with turbolinks
-
-{% include tag.html tag="fixed" %}
-- Fixed an issue with the sync autolinker only interlinking selectively.
-- Fixed up an issue with prematurely logging out users
+Consequat mauris nunc congue nisi vitae suscipit tellus mauris. Eu sem integer vitae justo eget magna fermentum. A diam sollicitudin tempor id eu nisl nunc. In aliquam sem fringilla ut. Eget mi proin sed libero enim sed faucibus turpis in. Imperdiet sed euismod nisi porta lorem mollis. Ultricies tristique nulla aliquet enim tortor at auctor urna. Malesuada fames ac turpis egestas maecenas pharetra convallis posuere morbi.
 
