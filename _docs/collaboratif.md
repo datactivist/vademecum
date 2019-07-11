@@ -1,7 +1,7 @@
 ---
 title: Un espace collaboratif
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: [principes]
+tags: [features, featured]
 ---
 
 
