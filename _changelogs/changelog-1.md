@@ -1,15 +1,5 @@
 ---
-title: November Update
-date: 2018-11-11
+title: 📜 Les posters de restitution
 ---
 
-{% include tag.html tag="fixed" %}
-
-```html
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+Et netus et malesuada fames ac. Congue nisi vitae suscipit tellus mauris a diam maecenas sed. Quisque egestas diam in arcu cursus euismod. Leo a diam sollicitudin tempor id eu nisl nunc.
