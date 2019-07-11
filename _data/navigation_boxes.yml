@@ -1,16 +1,16 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
+- title: Pourquoi un forum ?
+  desc: Encourager le dialogue avec la société civile
   icon: cog
   doc: installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
+- title: Comment l'organiser ?
+  desc: Quelles étapes sont nécessaires à la préparation d'un forum ?
   icon: settings
   doc: hero
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
+- title: Qui inviter ?
+  desc: Quels acteurs inviter en priorité à un forum ?
   icon: code
   doc: customize
