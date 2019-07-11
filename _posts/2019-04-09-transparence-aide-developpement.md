@@ -1,5 +1,5 @@
 ---
-title: Forum 6 Transparence de l’Aide Publique au Développement
+title: Forum 6 : Transparence de l’Aide Publique au Développement
 categories: [updates]
 ---
 
