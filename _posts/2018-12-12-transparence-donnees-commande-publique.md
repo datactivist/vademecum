@@ -3,8 +3,8 @@ title: Forum n°5 - Transparence de la commande publique, des données aux polit
 categories: [news, updates]
 ---
 
-> Le 12 décembre 2018, s’est tenu à Paris, à la Maison des Métallos, le cinquième forum Open d’État qui avait pour thème la transparence de la commande publique. En particulier, il a été question de l’engagement 2 du plan d’action national.
-> 
+Le 12 décembre 2018, s’est tenu à Paris, à la Maison des Métallos, le cinquième forum Open d’État qui avait pour thème la transparence de la commande publique. En particulier, il a été question de l’engagement 2 du plan d’action national.
+
 > Parmi les sujets abordés : la publication des données essentielles de la commande publique en open data (les DECP), les récents développements d’outils facilitant leur lecture, les opportunités d’usages qui peuvent en être faits par des acteurs du privé et du secteur associatif.
 > 
 > Les discussions introductives ont fait place à deux ateliers de travail qui se sont attachés d’une part à explorer et évaluer les données et informations publiées lors du nouveau cadre législatif, et d’autre part à mieux connaître les usages et usagers des données de la commande publique.
