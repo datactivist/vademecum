@@ -1,6 +1,5 @@
 ---
-title: 🚀 April Updates
-date: 2019-04-22
+title: 🚀 Kit d'appropriation
 ---
 
 April comes with a whole bunch of updates across our stack, the main focus for this month in regards to what was released is around:
