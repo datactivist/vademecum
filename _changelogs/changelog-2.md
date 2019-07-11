@@ -1,14 +1,5 @@
 ---
-title: 🚧 January Updates v1.0.5
-date: 2019-01-17
+title: 🚧 Le conducteur et le rétroplanning 
 ---
 
-Create your own labels, set text and color:
-
-{% include tag.html tag="added" %}
-{% include tag.html tag="changed" %}
-{% include tag.html tag="deprecated" %}
-{% include tag.html tag="removed" %}
-{% include tag.html tag="fixed" %}
-{% include tag.html tag="security" %}
-{% include tag.html tag="unreleased" %}
+Viverra suspendisse potenti nullam ac. Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Pharetra et ultrices neque ornare aenean euismod elementum. Aliquet sagittis id consectetur purus. Porttitor leo a diam sollicitudin tempor id. 
