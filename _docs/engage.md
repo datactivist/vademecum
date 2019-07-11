@@ -1,7 +1,7 @@
 ---
 title: Créer et pérenniser le dialogue
 subtitle: La démarche du gouvernement ouvert en France s’inscrit sur le long terme.
-tags: [principes]
+tags: [features, featured]
 ---
 
 Participer à l’Open d’État permet de simplifier la conception et le suivi des plans d’action et de rendre compte régulièrement de leurs mises en œuvre.
