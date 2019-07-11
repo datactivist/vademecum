@@ -3,7 +3,9 @@ title: Forum n°2 - Lumière sur les données du répertoire des représentants 
 categories: [updates]
 ---
 
-Le deuxième forum Open d’État a été co-organisé et hébergé par la _Haute autorité pour la transparence de la vie publique_ (HATVP) et s’est concentré sur l’engagement 20 du [Plan d’action national de la France](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf) pour le Partenariat pour un gouvernement ouvert (PGO). Après un première temps d’interview, le forum s’est constitué en deux ateliers pour travailler sur les questions suivantes :
+Le deuxième forum Open d’État a été co-organisé et hébergé par la Haute autorité pour la transparence de la vie publique (HATVP) et a porté sur la valorisation et la représentation des données du répertoire des représentants d’intérêt.
+
+Il s’est concentré sur l’engagement 20 du [Plan d’action national de la France](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf) pour le Partenariat pour un gouvernement ouvert (PGO). Après un première temps d’interview, le forum s’est constitué en deux ateliers pour travailler sur les questions suivantes :
 
 *   Comment valoriser les données du répertoire des représentants d’intérêt ?
 *   Comment représenter les données du répertoire des représentants d’intérêt ?
